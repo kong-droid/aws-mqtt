@@ -1,0 +1,13 @@
+logging:
+  file:
+    path: logging path.
+
+cloud:
+  aws:
+    credentials:
+      access-key: your access key.
+      secret-key: your secret key.
+    mqtt:
+      end-point: your mqtt url.
+      certificate-path: your thing certificate key.
+      private-path: your thing private key.
